@@ -1,28 +1,28 @@
-# `𝐃𝐀𝐌𝐀𝐈𝐍-𝐕4-𝐁𝐔𝐆-𝐁𝐎𝐓`
+# `𝐏𝐑𝐈𝐍𝐂𝐄-𝐕2-𝐁𝐔𝐆-𝐁𝐎𝐓`
 <br>
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=𝗜𝗧𝗦%20𝗗𝗔𝗠𝗔𝗜𝗡-𝗩𝟰-𝗕𝗨𝗚%20𝗕𝗢𝗧;%20𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦-𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗨𝗚%20𝗕𝗢𝗧;𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗕𝗥𝗬𝗔𝗡%20𝗧𝗘𝗖𝗛)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=𝗜𝗧𝗦%20𝗣𝗿𝗶𝗻𝗰𝗲𝘀𝘀-𝗩2%20𝗕𝗢𝗧;%20𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦-𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗨𝗚%20𝗕𝗢𝗧;𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗕𝗥𝗬𝗔𝗡%20𝗧𝗘𝗖𝗛)
 <p align="center">
 
 ## `Bot Intro and Features`
-[![𝑫𝑨𝑴𝑨𝑰𝑵-𝑩𝑼𝑮-𝑽4](https://telegra.ph/file/6b731a8489d85e536832d.jpg)](https://youtu.be/WcA7GZuaN0A)
+[![𝐏𝐑𝐈𝐍𝐂𝐄-𝑽2](https://telegra.ph/file/6b731a8489d85e536832d.jpg)](https://youtu.be/WcA7GZuaN0A)
 
-### ℹ️ **𝗗𝗔𝗠𝗔𝗜𝗡-𝗩𝟰 𝗜𝗡𝗙𝗢**
+### ℹ️ **𝗣𝗥𝗜𝗡𝗖𝗘-𝗩2 𝗜𝗡𝗙𝗢**
 Damain-v4 is a versatile Multi-Device bug bot developed by [BRYAN-TECH](https://github.com/Bryanlover1). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{DAMAIN-V4-BUG}/count.svg" alt="BRYAN TECH :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Princess-V2}/count.svg" alt="BRYAN TECH :: Visitor's Count" /></p>
 
 ### **Bot Statistics**
-![Bot Repository Size](https://img.shields.io/github/repo-size/Bryanlover1/Damaim-v4?style=for-the-badge)
-![Bot Repository Issues](https://img.shields.io/github/issues/Bryanlover1/Damain-v4?style=for-the-badge)
-![Bot Repository Stars](https://img.shields.io/github/stars/Bryanlover1/Damain-v4?style=for-the-badge)
-![Bot Repository Forks](https://img.shields.io/github/forks/Bryanlover1/Damaim-v4?style=for-the-badge)
-![Bot Repository Watchers](https://img.shields.io/github/watchers/Bryanlover1/Damain-v4?label=Watchers&style=for-the-badge)
+![Bot Repository Size](https://img.shields.io/github/repo-size/Bryanlover1/Princess-v2?style=for-the-badge)
+![Bot Repository Issues](https://img.shields.io/github/issues/Bryanlover1/Princess-v2?style=for-the-badge)
+![Bot Repository Stars](https://img.shields.io/github/stars/Bryanlover1/Princess-v2?style=for-the-badge)
+![Bot Repository Forks](https://img.shields.io/github/forks/Bryanlover1/Princess-v2?style=for-the-badge)
+![Bot Repository Watchers](https://img.shields.io/github/watchers/Bryanlover1/Princess-V2?label=Watchers&style=for-the-badge)
 ![Bot Repository Contributors](https://img.shields.io/github/contributors/Bryanlover1/Damain-v4?style=for-the-badge)
-![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/Bryanlover1/Damain-v4?style=for-the-badge)
-![Bot Repository License](https://img.shields.io/github/license/Bryanlover1/Damain-v4?style=for-the-badge)*
+![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/Bryanlover1/Princess-v2?style=for-the-badge)
+![Bot Repository License](https://img.shields.io/github/license/Bryanlover1/Princess-v2?style=for-the-badge)*
 
 
 ## ⭐ `Star This Repo`
