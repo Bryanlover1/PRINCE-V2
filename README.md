@@ -151,8 +151,8 @@ NOW Deploy👇
 ## `CREDITS` 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
 <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
-<div><button id="boton" type="button">Base  - BY BRYAN TECH</button></div>
-<a href="https://github.com/Bryanlover1"><img src="https://github.com/Bryanlover1.png" width="150" height="150" alt="BRYANT TECH"/></a>
+<div><button id="boton" type="button">Base  - BY BRYANT TECH</button></div>
+<a href="https://github.com/Elsa2090"><img src="https://github.com/Bryanlover1.png" width="150" height="150" alt="BRYANT TECH"/></a>
 
 ## `OWNER` 
 <a href="https://github.com/Bryanlover1"><img src="https://github.com/Bryanlover1.png" width="250" height="250" alt="BRYAN-TECH"/></a>
