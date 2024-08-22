@@ -7,7 +7,7 @@
 <p align="center">
 
 ## `Bot Intro and Features`
-[![𝐏𝐑𝐈𝐍𝐂𝐄-𝑽2](https://telegra.ph/file/6b731a8489d85e536832d.jpg)](https://youtu.be/WcA7GZuaN0A)
+[![𝐏𝐑𝐈𝐍𝐂𝐄-𝑽2](https://telegra.ph/file/43498f9f5b791993ecf49.jpg)](https://youtu.be/WcA7GZuaN0A)
 
 ### ℹ️ **𝗣𝗥𝗜𝗡𝗖𝗘-𝗩2 𝗜𝗡𝗙𝗢**
 Damain-v4 is a versatile Multi-Device bug bot developed by [BRYAN-TECH](https://github.com/Bryanlover1). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
