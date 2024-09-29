@@ -12,7 +12,7 @@
 ### ℹ️ **𝗣𝗥𝗜𝗡𝗖𝗘-𝗩2 𝗜𝗡𝗙𝗢**
 Damain-v4 is a versatile Multi-Device bug bot developed by [BRYAN-TECH](https://github.com/Bryanlover1). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Princess-V2}/count.svg" alt="BRYAN TECH :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{PRINCE-V2}/count.svg" alt="BRYAN TECH :: Visitor's Count" /></p>
 
 ### **Bot Statistics**
 ![Bot Repository Size](https://img.shields.io/github/repo-size/Bryanlover1/Princess-v2?style=for-the-badge)
